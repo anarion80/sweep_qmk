@@ -4,7 +4,7 @@
 A usable 34-key keymap for the Ferris keyboard
 ===============================================
 
-This is a 34-key layout I created and use on my Ferris Sweek keyboard. It is heavilly based on the work of ![Ben Vallack][https://github.com/benvallack].
+This is a 34-key layout I created and use on my Ferris Sweek keyboard. It is heavilly based on the work of ![Ben Vallack](https://github.com/benvallack).
 Currently the keyboard has 4 layouts:
 * Layer 1 (Base layer, letters)
 * Layer 2 (Navigation)
