@@ -1,0 +1,3 @@
+BOOTMAGIC_ENABLE = yes
+TAP_DANCE_ENABLE = yes
+BOOTLOADER = atmel-dfu
