@@ -350,4 +350,4 @@ MigrationBackup/
 .ionide/
 
 # VSCodium workspace
-.code-workspace
+*.code-workspace
